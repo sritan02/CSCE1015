@@ -4,3 +4,7 @@ Assignment repository for UNT CSCE1015
 sg1672
 ## Favorite Professor
 Amar Maharjan
+## EUID
+sg1672
+## Favorite Linux Command
+nano
